@@ -1,0 +1,20 @@
+# Server Management Bot Requirements
+# For Termux on Android
+
+# Telegram Bot API
+python-telegram-bot>=20.0
+
+# SSH connections
+paramiko>=3.0.0
+
+# Encryption
+cryptography>=41.0.0
+
+# Task scheduling
+schedule>=1.2.0
+
+# Optional: Enhanced logging
+colorlog>=6.7.0
+
+# Optional: System monitoring
+psutil>=5.9.0
